@@ -75,6 +75,7 @@
 - [db.ddstats.org](https://db.ddstats.org/) - Datasette instance of the official DDNet record database.
 - [ddstats.org](https://ddstats.org/) ([GitHub](https://github.com/edg-l/ddstats)) - A DDraceNetwork / Teeworlds fancy information frontend.
 - [DDStats](https://ddstats.org/) ([GitHub](https://github.com/ddstats-tw)) - A website showing various statistics related to DDNet.
+- [DDNet-Team-Searcher](https://github.com/DDNet-Team-Searcher) - Website where weirdos can find another weirdos to play with each other.
 - [skinprox](https://skins.scrumplex.net/) ([Source code](https://codeberg.org/Scrumplex/skinprox)) - Opinionated proxy for querying skins for DDraceNetwork.
 - [teeobserver](https://observer.ddstats.org/) ([GitHub](https://github.com/edg-l/teeobserver)) - This tool continuously fetches the DDNet master server and observes the changes, broadcasting the events and providing a API.
 - [trashmap.ddnet.org](https://trashmap.ddnet.org/) ([GitHub](https://github.com/ddnet/ddnet-trashmap)) - DDNet Trashmap is a service for mappers who can't host their own servers. You can create a testing server here and test your map alone or with other players.
