@@ -22,6 +22,7 @@
   - [Python](#libraries-python)
   - [JavaScript / TypeScript](#libraries-js-ts)
   - [C#](#libraries-csharp)
+- [Clients](#clients)
 - [Mods](#mods)
 - [Blog Posts](#blog-posts)
 - [Documentation](#docs)
@@ -111,9 +112,13 @@
 
 - ...
 
+## Clients
+
+- [TaterClient](https://github.com/sjrc6/TaterClient-ddnet) - Modification of DDNet teeworlds client.
+
 ## Mods
 
-- ...
+- [MineTee](https://gitlab.com/Tardo/MineTee) - Server / Client Mod for Teeworlds v0.6.x.
 
 ## Blog Posts
 
