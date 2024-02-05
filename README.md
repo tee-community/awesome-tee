@@ -139,7 +139,7 @@
 
 ## Tutorials
 
-- ...
+- [Beginner Gores Tutorial](https://www.youtube.com/watch?v=5fU25R5xLmE)
 
 ## Content Makers
 
@@ -149,6 +149,7 @@
 - [Beautemps](https://www.youtube.com/@BeautempsTW)
 - [TeeworldsEasy](https://www.youtube.com/@TeeworldsEasy)
 - [JuKKi](https://www.youtube.com/@jukkitw)
+- [Teero](https://www.youtube.com/@Teero777)
 - [M1H40S](https://www.youtube.com/@M1H40S)
 - [Brokecdx-](https://www.youtube.com/@Brokecdx)
 
