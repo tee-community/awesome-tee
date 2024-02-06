@@ -103,6 +103,8 @@
 
 - [twmap-py](https://gitlab.com/Patiga/twmap-py) - Python bindings for the crate twmap.
 - [twmap-blender](https://gitlab.com/Patiga/twmap-blender) - Blender add-on that allows you to import Teeworlds / DDNet maps.
+- [twnet_parser](https://gitlab.com/teeworlds-network/twnet_parser) - A teeworlds network protocol library, designed according to sans I/O (http://sans-io.readthedocs.io/) principles
+
 
 ### JavaScript / TypeScript <a id="libraries-js-ts"></a>
 
