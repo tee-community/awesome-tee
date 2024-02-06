@@ -113,6 +113,7 @@
 - [teeworlds-utilities](https://github.com/teeworlds-utilities/teeworlds-utilities) - Teeworlds asset utilities used at teedata.net.
 - [teeworlds-server-status](https://github.com/edg-l/teeworlds-server-status) - Get information about DDraceNetwork / Teeworlds servers.
 - [tw-chatonly](https://gitlab.com/swarfey/teeworlds-client/) - Library to connect a bot to a Teeworlds server.
+- [TeeAssembler-2.0](https://github.com/AlexIsTheGuy/TeeAssembler-2.0) ([Demo](https://teeassembler.developer.li/)) - TeeAssembler 2.0 is a script used for coloring a Teeworlds skin image the same way Teeworlds does and rendering the image in your browser using HTML, CSS and JavaScript.
 
 ### C\# <a id="libraries-csharp"></a>
 
