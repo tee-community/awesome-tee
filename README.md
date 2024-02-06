@@ -142,7 +142,10 @@
 
 ## Assets
 
-- ...
+- [TeeworldsDB/mapres](https://github.com/TeeworldsDB/mapres) - A sorted collection of teeworlds mapres
+- [TeeworldsDB/skins](https://github.com/TeeworldsDB/skins) - A collection of 0.6 and 0.7 teeworlds skins that aims to be complete. Quantity over quality.
+- [TeeworldsDB/images](https://github.com/TeeworldsDB/images) - A collection of free to use and edit images for other art work. No actual game skins.
+- [ddnet-data-svg](https://github.com/ddnet/ddnet-data-svg) - ddnet community effort to recreate teeworlds assets as svgs
 
 ## Tutorials
 
