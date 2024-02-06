@@ -147,6 +147,7 @@
 ## Tutorials
 
 - [Beginner Gores Tutorial](https://www.youtube.com/watch?v=5fU25R5xLmE)
+- [A Guide to Teeworlds: Teeworlds in All of its Difficultees (copyright free)](https://www.youtube.com/watch?v=ErmocbgAgE8) - Teeworlds gameplay intro by ResamVi on YouTube
 
 ## Content Makers
 
