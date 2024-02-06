@@ -116,6 +116,7 @@
 ## Clients
 
 - [TaterClient](https://github.com/sjrc6/TaterClient-ddnet) - Modification of DDNet teeworlds client.
+- [chillerbot-ux](https://github.com/chillerbot/chillerbot-ux) - DDNet based client with password manager, block warlist and chat automation.
 
 ## Mods
 
