@@ -138,14 +138,15 @@
 
 ## Documentation
 
-- [The Teeworlds / DDNet network protocol](https://chillerdragon.github.io/teeworlds-protocol/), by ChillerDragon
+- [The Teeworlds / DDNet network protocol](https://chillerdragon.github.io/teeworlds-protocol/)
+- [DDNet Skeleton](https://github.com/teemods/ddnet-skeleton-readme?tab=readme-ov-file#ddnet-skeleton) - README containing information about Skeleton changes & How DDNet code and flags works.
 
 ## Assets
 
-- [TeeworldsDB/mapres](https://github.com/TeeworldsDB/mapres) - A sorted collection of teeworlds mapres
+- [TeeworldsDB/mapres](https://github.com/TeeworldsDB/mapres) - A sorted collection of teeworlds mapres.
 - [TeeworldsDB/skins](https://github.com/TeeworldsDB/skins) - A collection of 0.6 and 0.7 teeworlds skins that aims to be complete. Quantity over quality.
 - [TeeworldsDB/images](https://github.com/TeeworldsDB/images) - A collection of free to use and edit images for other art work. No actual game skins.
-- [ddnet-data-svg](https://github.com/ddnet/ddnet-data-svg) - ddnet community effort to recreate teeworlds assets as svgs
+- [ddnet-data-svg](https://github.com/ddnet/ddnet-data-svg) - ddnet community effort to recreate teeworlds assets as SVG's.
 
 ## Tutorials
 
