@@ -30,6 +30,7 @@
 - [Tutorials](#tutorials)
 - [Content Makers](#content-makers)
     - [Youtube Channels](#content-makers-yt)
+- [More curated lists](#more-curated-lists)
 
 <!-- md-parser-start -->
 
@@ -151,6 +152,10 @@
 - [JuKKi](https://www.youtube.com/@jukkitw)
 - [M1H40S](https://www.youtube.com/@M1H40S)
 - [Brokecdx-](https://www.youtube.com/@Brokecdx)
+
+## More curated lists
+
+- [teeworlds-headless-clients](https://github.com/ChillerDragon/teeworlds-headless-clients) -  A curated list of teeworlds and ddnet clients without graphics.
 
 <!-- md-parser-end -->
 <br/>
