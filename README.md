@@ -98,6 +98,7 @@
 ### Ruby <a id="libraries-ruby"></a>
 
 - [huffman-tw](https://github.com/ChillerDragon/huffman-tw) - The Teeworlds C++ huffman compression code wrapped as a ruby gem.
+- [teeworlds_network](https://github.com/ChillerDragon/teeworlds_network) - Teeworlds 0.7 Client and Server network library
 
 ### Python <a id="libraries-python"></a>
 
