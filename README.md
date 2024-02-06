@@ -87,6 +87,7 @@
 - [libtw2](https://github.com/heinrich5991/libtw2) - Some Teeworlds stuff in Rust.
 - [twmap](https://gitlab.com/Patiga/twmap) - A Rust library for parsing, editing and saving Teeworlds and DDNet maps.
 - [twgpu](https://gitlab.com/Patiga/twgpu) - Renderer for Teeworlds and DDNet maps.
+- [tw-mastersrv](https://github.com/teeworlds-utilities/tw-mastersrv) - 🔎 Parsing Teeworlds master server.
 - [teeconfig](https://github.com/edg-l/teeconfig) - A DDraceNetwork / Teeworlds configuration parser.
 - [teestatus](https://github.com/edg-l/teestatus) - Library to retrieve information from teeworlds servers and related mods.
 - [teeint](https://github.com/edg-l/teeint) - A teeworlds variable int packer/unpacker in Rust.
