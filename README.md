@@ -111,7 +111,7 @@
 
 ### C\# <a id="libraries-csharp"></a>
 
-- ...
+- [TeeSharp](https://github.com/Matodor/TeeSharp) - Teeworlds / DDraceNetwork modding platform in .NET
 
 ## Clients
 
