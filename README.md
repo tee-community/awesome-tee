@@ -1,6 +1,6 @@
 <p align="center">
   <br>
-  <img width="400" src="./assets/logo.svg" alt="logo of awesome-tee repository">
+  <img width="200" src="./assets/logo.svg" alt="logo of awesome-tee repository">
   <br>
   <br>
 </p>
