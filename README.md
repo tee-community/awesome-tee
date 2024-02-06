@@ -120,6 +120,9 @@
 ## Mods
 
 - [MineTee](https://gitlab.com/Tardo/MineTee) - Server / Client Mod for Teeworlds v0.6.x.
+- Nodes - Build a base with your team to withstand enemy attacks and prepare yourself well for counterattack. For this purpose you can build weapon dispensers, automatic guns, teleporters, defense shields and more.
+  + 0.7 remake [website](https://nodes.teeworlds.dev/) and [code](https://github.com/teeworldsnetwork/nodes)
+  + 2010 [original forum post](https://www.teeworlds.com/forum/viewtopic.php?id=5409)
 
 ## Blog Posts
 
