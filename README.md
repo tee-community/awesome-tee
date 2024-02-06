@@ -164,6 +164,8 @@
 - [Teero](https://www.youtube.com/@Teero777)
 - [M1H40S](https://www.youtube.com/@M1H40S)
 - [Brokecdx-](https://www.youtube.com/@Brokecdx)
+- [Gazebr](https://www.youtube.com/@Gazebr)
+- [Aoe](https://www.youtube.com/@AoeTeeworlds)
 
 <!-- md-parser-end -->
 <br/>
