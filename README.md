@@ -139,7 +139,7 @@
 
 ## Tutorials
 
-- ...
+- [A Guide to Teeworlds: Teeworlds in All of its Difficultees (copyright free)](https://www.youtube.com/watch?v=ErmocbgAgE8) - Teeworlds gameplay intro by ResamVi on youtube
 
 ## Content Makers
 
