@@ -21,6 +21,7 @@
   - [Ruby](#libraries-ruby)
   - [Python](#libraries-python)
   - [JavaScript / TypeScript](#libraries-js-ts)
+      - [AngularJS](#libraries-angularjs)
   - [C#](#libraries-csharp)
 - [Clients](#clients)
 - [Mods](#mods)
@@ -114,6 +115,10 @@
 - [teeworlds-server-status](https://github.com/edg-l/teeworlds-server-status) - Get information about DDraceNetwork / Teeworlds servers.
 - [tw-chatonly](https://gitlab.com/swarfey/teeworlds-client/) - Library to connect a bot to a Teeworlds server.
 - [TeeAssembler-2.0](https://github.com/AlexIsTheGuy/TeeAssembler-2.0) ([Demo](https://teeassembler.developer.li/)) - TeeAssembler 2.0 is a script used for coloring a Teeworlds skin image the same way Teeworlds does and rendering the image in your browser using HTML, CSS and JavaScript.
+
+##### AngularJS <a id="libraries-angularjs"></a>
+
+- [NgTeeAssembler](https://github.com/k-i-o/NgTeeAssembler) (TeeAssembler 3.0) - fork of [TeeAssembler 2.0](https://github.com/AlexIsTheGuy/TeeAssembler-2.0) reimplemented as AngularJS package.
 
 ### C\# <a id="libraries-csharp"></a>
 
