@@ -98,11 +98,14 @@
 ### Ruby <a id="libraries-ruby"></a>
 
 - [huffman-tw](https://github.com/ChillerDragon/huffman-tw) - The Teeworlds C++ huffman compression code wrapped as a ruby gem.
+- [teeworlds_network](https://github.com/ChillerDragon/teeworlds_network) - Teeworlds 0.7 Client and Server network library
 
 ### Python <a id="libraries-python"></a>
 
 - [twmap-py](https://gitlab.com/Patiga/twmap-py) - Python bindings for the crate twmap.
 - [twmap-blender](https://gitlab.com/Patiga/twmap-blender) - Blender add-on that allows you to import Teeworlds / DDNet maps.
+- [twnet_parser](https://gitlab.com/teeworlds-network/twnet_parser) - A teeworlds network protocol library, designed according to sans I/O (http://sans-io.readthedocs.io/) principles
+
 
 ### JavaScript / TypeScript <a id="libraries-js-ts"></a>
 
@@ -111,15 +114,19 @@
 
 ### C\# <a id="libraries-csharp"></a>
 
-- ...
+- [TeeSharp](https://github.com/Matodor/TeeSharp) - Teeworlds / DDraceNetwork modding platform in .NET
 
 ## Clients
 
 - [TaterClient](https://github.com/sjrc6/TaterClient-ddnet) - Modification of DDNet teeworlds client.
+- [chillerbot-ux](https://github.com/chillerbot/chillerbot-ux) - DDNet based client with password manager, block warlist and chat automation.
 
 ## Mods
 
 - [MineTee](https://gitlab.com/Tardo/MineTee) - Server / Client Mod for Teeworlds v0.6.x.
+- Nodes - Build a base with your team to withstand enemy attacks and prepare yourself well for counterattack. For this purpose you can build weapon dispensers, automatic guns, teleporters, defense shields and more.
+  + 0.7 remake [website](https://nodes.teeworlds.dev/) and [code](https://github.com/teeworldsnetwork/nodes)
+  + 2010 [original forum post](https://www.teeworlds.com/forum/viewtopic.php?id=5409)
 
 ## Blog Posts
 
@@ -139,7 +146,8 @@
 
 ## Tutorials
 
-- [A Guide to Teeworlds: Teeworlds in All of its Difficultees (copyright free)](https://www.youtube.com/watch?v=ErmocbgAgE8) - Teeworlds gameplay intro by ResamVi on youtube
+- [Beginner Gores Tutorial](https://www.youtube.com/watch?v=5fU25R5xLmE)
+- [A Guide to Teeworlds: Teeworlds in All of its Difficultees (copyright free)](https://www.youtube.com/watch?v=ErmocbgAgE8) - Teeworlds gameplay intro by ResamVi on YouTube
 
 ## Content Makers
 
@@ -149,6 +157,7 @@
 - [Beautemps](https://www.youtube.com/@BeautempsTW)
 - [TeeworldsEasy](https://www.youtube.com/@TeeworldsEasy)
 - [JuKKi](https://www.youtube.com/@jukkitw)
+- [Teero](https://www.youtube.com/@Teero777)
 - [M1H40S](https://www.youtube.com/@M1H40S)
 - [Brokecdx-](https://www.youtube.com/@Brokecdx)
 
