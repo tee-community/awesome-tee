@@ -153,8 +153,12 @@
 
 ## Archives
 
-- [Map collection](https://heinrich5991.de/teeworlds/maps/) - by heinrich5991.
-- [Map collection (mirror)](https://tee.world/teeworlds/) - by noby.
+- [[MAPS] Map collection](https://heinrich5991.de/teeworlds/maps/) - by heinrich5991.
+- [[MAPS] Map collection (mirror)](https://tee.world/teeworlds/) - by noby.
+- [[CHAT] Teeworlds Discord server chat logs](https://archive.strct.cc/teeworlds/)
+- [[CHAT] DDNet Discord server chat logs](https://archive.strct.cc/ddnet/) ([events](https://archive.strct.cc/ddnet-events/), [info](https://archive.strct.cc/ddnet-info/))
+- [[CHAT] KoG Discord server chat logs](https://archive.strct.cc/kog/)
+- [[CHAT] Teeworlds Data Discord server chat logs](https://archive.strct.cc/teeworlds-data/) ([events](https://archive.strct.cc/teeworlds-data-events/), [info](https://archive.strct.cc/teeworlds-data-info/))
 
 ## Assets
 
