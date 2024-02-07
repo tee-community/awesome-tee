@@ -27,6 +27,7 @@
 - [Mods](#mods)
 - [Blog Posts](#blog-posts)
 - [Documentation](#docs)
+- [Archives](#archives)
 - [Assets](#assets)
 - [Tutorials](#tutorials)
 - [Content Makers](#content-makers)
@@ -149,6 +150,11 @@
 
 - [The Teeworlds / DDNet network protocol](https://chillerdragon.github.io/teeworlds-protocol/)
 - [DDNet Skeleton](https://github.com/teemods/ddnet-skeleton-readme?tab=readme-ov-file#ddnet-skeleton) - README containing information about Skeleton changes & How DDNet code and flags works.
+
+## Archives
+
+- [Map collection](https://heinrich5991.de/teeworlds/maps/) - by heinrich5991.
+- [Map collection (mirror)](https://tee.world/teeworlds/) - by noby.
 
 ## Assets
 
