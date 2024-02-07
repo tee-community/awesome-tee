@@ -155,8 +155,19 @@
 
 - [[MAPS] Map collection](https://heinrich5991.de/teeworlds/maps/) - by heinrich5991.
 - [[MAPS] Map collection (mirror)](https://tee.world/teeworlds/) - by noby.
-- [[CHAT] Teeworlds Discord server chat logs](https://archive.strct.cc/teeworlds/)
-- [[CHAT] DDNet Discord server chat logs](https://archive.strct.cc/ddnet/) ([events](https://archive.strct.cc/ddnet-events/), [info](https://archive.strct.cc/ddnet-info/))
+- [[OTHER] DDNet daily master server stats backups](https://ddnet.org/stats/master/)
+- [OTHER] Raw list of all DDNet ranks, team ranks and maps
+  - [CSV](https://ddnet.org/stats/ddnet-stats.zip)
+  - [SQL](https://ddnet.org/stats/ddnet-sql.zip)
+  - [SQLite](https://ddnet.org/stats/ddnet.sqlite.zip)
+- [OTHER] Raw data of players since 2014-12-21
+  - [By country (CSV)](https://ddnet.org/status/csv/bycountry)
+  - [By mod (CSV)](https://ddnet.org/status/csv/bymod)
+- [CHAT] Teeworlds chat logs
+  - [IRC](https://ddnet.org/irclogs/teeworlds/)
+- [CHAT] DDNet chat logs
+  - [Discord ](https://archive.strct.cc/ddnet/) ([events](https://archive.strct.cc/ddnet-events/), [info](https://archive.strct.cc/ddnet-info/), [testlogs](https://ddnet.org/testlogs/))
+  - [IRC](https://ddnet.org/irclogs/)
 - [[CHAT] KoG Discord server chat logs](https://archive.strct.cc/kog/)
 - [[CHAT] Teeworlds Data Discord server chat logs](https://archive.strct.cc/teeworlds-data/) ([events](https://archive.strct.cc/teeworlds-data-events/), [info](https://archive.strct.cc/teeworlds-data-info/))
 
