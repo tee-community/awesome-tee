@@ -83,6 +83,7 @@
 - [trashmap.ddnet.org](https://trashmap.ddnet.org/) ([GitHub](https://github.com/ddnet/ddnet-trashmap)) - DDNet Trashmap is a service for mappers who can't host their own servers. You can create a testing server here and test your map alone or with other players.
 - [Teerank.io](https://teerank.io/) ([GitHub](https://github.com/needs/teerank)) - Teerank is a simple and fast ranking system for Teeworlds.
 - [Teeworlds Web Editor](https://tw.thissma.fr/) ([GitHub](https://github.com/k2d222/twwe)) - Teeworlds / DDraceNetwork map editor. Online and collaborative, just like the game.
+- [ddnet url generator](https://ddnet.org/connect-to/?addr=127.0.0.1:8303/) ([GitHub](https://github.com/ddnet/ddnet-web/tree/247b045ca8045620bd2b70e81ded9c7a7bf45048/www/connect-to)) - Share server ips as https links
 
 ## Libraries
 
