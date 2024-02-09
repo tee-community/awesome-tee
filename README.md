@@ -165,6 +165,7 @@
   - [By country (CSV)](https://ddnet.org/status/csv/bycountry)
   - [By mod (CSV)](https://ddnet.org/status/csv/bymod)
 - [CHAT] Teeworlds chat logs
+  - [Discord](https://archive.strct.cc/teeworlds/)
   - [IRC](https://ddnet.org/irclogs/teeworlds/)
 - [CHAT] DDNet chat logs
   - [Discord ](https://archive.strct.cc/ddnet/) ([events](https://archive.strct.cc/ddnet-events/), [info](https://archive.strct.cc/ddnet-info/), [testlogs](https://ddnet.org/testlogs/))
