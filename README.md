@@ -25,6 +25,8 @@
   - [C#](#libraries-csharp)
 - [Clients](#clients)
 - [Mods](#mods)
+  - [Client-server modifications](#mods-client-server)
+  - [Server-side modifications](#mods-server)
 - [Blog Posts](#blog-posts)
 - [Documentation](#docs)
 - [Archives](#archives)
@@ -136,10 +138,16 @@
 
 ## Mods
 
+### Client-server modifications <a id="mods-client-server"></a>
+
 - [MineTee](https://gitlab.com/Tardo/MineTee) - Server / Client Mod for Teeworlds v0.6.x.
 - Nodes - Build a base with your team to withstand enemy attacks and prepare yourself well for counterattack. For this purpose you can build weapon dispensers, automatic guns, teleporters, defense shields and more.
   + 0.7 remake [website](https://nodes.teeworlds.dev/) and [code](https://github.com/teeworldsnetwork/nodes)
   + 2010 [original forum post](https://www.teeworlds.com/forum/viewtopic.php?id=5409)
+
+### Server-side modifications <a id="mods-server"></a>
+
+- [opengores](https://github.com/teemods/opengores) ([maps](https://github.com/teemods/opengores-maps)) - A open-source version of Gores mod, forked from ddnet.
 
 ## Blog Posts
 
