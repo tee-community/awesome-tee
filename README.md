@@ -44,7 +44,7 @@
 - [Teeworlds - GitHub](https://github.com/teeworlds)
 - [Teeworlds - Steam](https://store.steampowered.com/app/380840/Teeworlds/)
 - [Teeworlds - Discord](https://discord.gg/teeworlds)
-- [Teeworlds - IRC](irc://irc.quakenet.org/teeworlds) [[Web chat](https://webchat.quakenet.org/?channels=teeworlds)]
+- [Teeworlds - IRC](https://webchat.quakenet.org/?channels=teeworlds)
 
 ### DDraceNetwork <a id="communities-ddnet"></a>
 
