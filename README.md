@@ -81,6 +81,7 @@
 - [skinprox](https://skins.scrumplex.net/) ([Source code](https://codeberg.org/Scrumplex/skinprox)) - Opinionated proxy for querying skins for DDraceNetwork.
 - [teeobserver](https://observer.ddstats.org/) ([GitHub](https://github.com/edg-l/teeobserver)) - This tool continuously fetches the DDNet master server and observes the changes, broadcasting the events and providing a API.
 - [trashmap.ddnet.org](https://trashmap.ddnet.org/) ([GitHub](https://github.com/ddnet/ddnet-trashmap)) - DDNet Trashmap is a service for mappers who can't host their own servers. You can create a testing server here and test your map alone or with other players.
+- [Teerank.io](https://teerank.io/) ([GitHub](https://github.com/needs/teerank)) - Teerank is a simple and fast ranking system for Teeworlds.
 
 ## Libraries
 
