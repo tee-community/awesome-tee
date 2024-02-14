@@ -149,6 +149,8 @@
 ### Server-side modifications <a id="mods-server"></a>
 
 - [opengores](https://github.com/teemods/opengores) ([maps](https://github.com/teemods/opengores-maps)) - A open-source version of Gores mod, forked from ddnet.
+- [zCatch](https://github.com/jxsl13/zcatch) ([website](https://zcat.ch/)) - About
+zCatch is a server modification for the retro multiplayer shooter Teeworlds. It is a last man standing instagib gamemode.
 
 ## Blog Posts
 
