@@ -118,6 +118,7 @@
 
 ### JavaScript / TypeScript <a id="libraries-js-ts"></a>
 
+- [tee-skin-renderer](https://github.com/tee-community/tee-skin-renderer) - Teeworlds / DDNet skin renderer for your HTML pages.
 - [teeworlds-utilities](https://github.com/teeworlds-utilities/teeworlds-utilities) - Teeworlds asset utilities used at teedata.net.
 - [teeworlds-server-status](https://github.com/edg-l/teeworlds-server-status) - Get information about DDraceNetwork / Teeworlds servers.
 - [tw-chatonly](https://gitlab.com/swarfey/teeworlds-client/) - Library to connect a bot to a Teeworlds server.
