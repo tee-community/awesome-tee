@@ -92,6 +92,7 @@
 ## Tools
 
 - [SimpleDDNetAutomapper](https://github.com/AssassinTee/SimpleDDNetAutomapper) - A simple application which helps to create automappers for ddnet.
+- [teeview](https://teeview.meeu.me/) ([GitHub](https://github.com/meeuchan/teeview)) - TeeView is a tool to render TeeWorlds/DDNet skin file in your browser.
 
 ## Libraries
 
