@@ -35,6 +35,7 @@
 - [Tutorials](#tutorials)
 - [Content Makers](#content-makers)
     - [Youtube Channels](#content-makers-yt)
+- [More curated lists](#more-curated-lists)
 
 <!-- md-parser-start -->
 
@@ -219,6 +220,10 @@ zCatch is a server modification for the retro multiplayer shooter Teeworlds. It 
 - [Brokecdx-](https://www.youtube.com/@Brokecdx)
 - [Gazebr](https://www.youtube.com/@Gazebr)
 - [Aoe](https://www.youtube.com/@AoeTeeworlds)
+
+## More curated lists
+
+- [teeworlds-headless-clients](https://github.com/ChillerDragon/teeworlds-headless-clients) -  A curated list of teeworlds and ddnet clients without graphics.
 
 <!-- md-parser-end -->
 <br/>
