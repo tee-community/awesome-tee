@@ -24,12 +24,13 @@
   - [JavaScript / TypeScript](#libraries-js-ts)
       - [AngularJS](#libraries-angularjs)
   - [C#](#libraries-csharp)
+  - [C](#libraries-c)
 - [Clients](#clients)
 - [Mods](#mods)
   - [Client-server modifications](#mods-client-server)
   - [Server-side modifications](#mods-server)
 - [Blog Posts](#blog-posts)
-- [Documentation](#docs)
+- [Documentation](#documentation)
 - [Archives](#archives)
 - [Assets](#assets)
 - [Tutorials](#tutorials)
@@ -88,11 +89,13 @@
 - [Teeworlds Web Editor](https://tw.thissma.fr/) ([GitHub](https://github.com/k2d222/twwe)) - Teeworlds / DDraceNetwork map editor. Online and collaborative, just like the game.
 - [ddnet url generator](https://ddnet.org/connect-to/?addr=127.0.0.1:8303/) ([GitHub](https://github.com/ddnet/ddnet-web/tree/247b045ca8045620bd2b70e81ded9c7a7bf45048/www/connect-to)) - Share server ips as https links.
 - [KoG-Stats](https://riemelt.github.io/KoG-Stats/) ([GitHub](https://github.com/Riemelt/KoG-Stats)) - KoG map record holders.
+- [FrameTee](https://github.com/Teero888/frametee) - A DDraceNetwork TAS tool.
 
 ## Tools
 
 - [SimpleDDNetAutomapper](https://github.com/AssassinTee/SimpleDDNetAutomapper) - A simple application which helps to create automappers for ddnet.
 - [teeview](https://teeview.meeu.me/) ([GitHub](https://github.com/meeuchan/teeview)) - TeeView is a tool to render TeeWorlds/DDNet skin file in your browser.
+- [demo_to_ghost](https://github.com/Teero888/demo_to_ghost) - Convert DDNet demos to ghosts
 
 ## Libraries
 
@@ -138,6 +141,13 @@
 
 - [Teeditor](https://github.com/michailowski/Teeditor) - Map editor for a retro multiplayer shooter TeeWorlds.
 - [TeeSharp](https://github.com/Matodor/TeeSharp) - Teeworlds / DDraceNetwork modding platform in .NET.
+
+### C <a id="libraries-c"></a>
+
+- [ddnet_ghost](https://github.com/Teero888/ddnet_ghost) - Load, create and save DDNet Ghost files
+- [ddnet_maploader](https://github.com/Teero888/ddnet_maploader) - Load physics layers of a DDNet map
+- [ddnet_demo](https://github.com/Teero888/ddnet_demo) - Load, Create and Save DDNet demos
+- [ddnet_physics](https://github.com/Teero888/ddnet_physics) - An optimized DDNet physics reimplementation that aims to fix all its bugs and flaws
 
 ## Clients
 
