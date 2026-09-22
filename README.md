@@ -174,11 +174,11 @@ zCatch is a server modification for the retro multiplayer shooter Teeworlds. It 
 
 ## Blog Posts
 
-- [UI Code in DDraceNetwork](https://edgarluque.com/blog/ui-code-ddnet/)
-- [Parsing compressed files efficiently with Rust (DDNet master server files)](https://edgarluque.com/blog/zstd-streaming-in-rust/)
-- [An intro to the DDraceNetwork game source code](https://edgarluque.com/blog/intro-to-ddnet/)
-- [Code conventions in DDraceNetwork](https://edgarluque.com/blog/code-conventions-in-ddnet/)
-- [Implementing a chat command in DDraceNetwork](https://edgarluque.com/blog/chat-command-ddracenetwork/)
+- [UI Code in DDraceNetwork](https://edgl.dev/blog/ui-code-ddnet/)
+- [Parsing compressed files efficiently with Rust (DDNet master server files)](https://edgl.dev/blog/zstd-streaming-in-rust/)
+- [An intro to the DDraceNetwork game source code](https://edgl.dev/blog/intro-to-ddnet/)
+- [Code conventions in DDraceNetwork](https://edgl.dev/blog/code-conventions-in-ddnet/)
+- [Implementing a chat command in DDraceNetwork](https://edgl.dev/blog/chat-command-ddracenetwork/)
 
 ## Documentation
 
